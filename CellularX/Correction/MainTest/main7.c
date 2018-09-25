@@ -1,9 +1,9 @@
-void cellularx(int cells[], int taille, int t);
+void ct_cellularx(int cells[], int taille, int t);
 
 int main()
 {
   int tab[] = {0, 0};
   
-  cellularx(tab, 2, 5);
+  ct_cellularx(tab, 2, 5);
   return 0;
 }
